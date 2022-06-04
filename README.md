@@ -1,4 +1,5 @@
-World Development Indicators - worldbank.org
+Clustering with World Development Indicators from worldbank.org -
+This is a personal project - 
 Fabio Cardoso - Dec/2021
 
 
