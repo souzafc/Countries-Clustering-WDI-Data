@@ -1,6 +1,5 @@
 Clustering with World Development Indicators from worldbank.org open data -
-This is a personal project - 
-Fabio Cardoso - Dec/2021
+This is an experimental and personal project. The results are not validated - Fabio Cardoso - Dec/2021
 
 
 Datasets:
