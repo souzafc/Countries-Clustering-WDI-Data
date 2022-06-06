@@ -1,4 +1,4 @@
-Clustering with World Development Indicators from worldbank.org -
+Clustering with World Development Indicators from worldbank.org open data -
 This is a personal project - 
 Fabio Cardoso - Dec/2021
 
